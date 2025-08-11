@@ -4,6 +4,6 @@ A utility library implementing 2x2, 3x3, 4x4, and NxM matrix functionality.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shinmera/3d-matrices.git |
-| commit  | 9521146                                         |
+| commit  | 26bf5d3                                         |
 | systems | 3d-matrices                                     |
 |---------+-------------------------------------------------|
