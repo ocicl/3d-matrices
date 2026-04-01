@@ -7,3 +7,4 @@ A utility library implementing 2x2, 3x3, 4x4, and NxM matrix functionality.
 | commit  | bc1ffa0                                         |
 | systems | 3d-matrices-test 3d-matrices                    |
 |---------+-------------------------------------------------|
+ 
